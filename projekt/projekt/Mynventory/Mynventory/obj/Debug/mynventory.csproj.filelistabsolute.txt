@@ -1,0 +1,76 @@
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\Mynventory.exe.config
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\Mynventory.exe
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\Mynventory.pdb
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\Dapper.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\EntityFramework.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\EntityFramework.SqlServer.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\MetroFramework.Design.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\MetroFramework.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\MetroFramework.Fonts.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.EF6.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.Linq.dll
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\Dapper.xml
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\EntityFramework.xml
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\EntityFramework.SqlServer.xml
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.xml
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.dll.config
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.Properties.Resources.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Glavni.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Login.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Useri_forma.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Useri_dodaj.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.csproj.GenerateResource.cache
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.csproj.CoreCompileInputs.cache
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.csproj.CopyComplete
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.exe
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.pdb
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_forma.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_forma.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_dodaj.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_uredi.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.csprojAssemblyReference.cache
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_izbrisi.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_dodaj.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_uredi.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_izbrisi.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Racun_forma.resources
+G:\MYNVENTORY\FINAL\Mynventory\Mynventory\obj\Debug\Mynventory.View.Transakcije_forma.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\Mynventory.exe.config
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\Mynventory.exe
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\Mynventory.pdb
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\Dapper.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\EntityFramework.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\MetroFramework.Design.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\MetroFramework.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\Dapper.xml
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\EntityFramework.xml
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.csprojResolveAssemblyReference.cache
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.Properties.Resources.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_dodaj.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_forma.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_izbrisi.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Dobavljaci_uredi.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Glavni.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Login.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_dodaj.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_forma.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_izbrisi.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Proizvodi_uredi.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Racun_forma.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Transakcije_forma.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Useri_forma.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.View.Useri_dodaj.resources
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.csproj.GenerateResource.cache
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.csproj.CoreCompileInputs.cache
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.csproj.CopyComplete
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.exe
+C:\Users\Fikret\Desktop\prog ing projekt\projekt\Mynventory\Mynventory\obj\Debug\Mynventory.pdb
